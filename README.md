@@ -1,5 +1,6 @@
 # pygame-python-
-pygame을 이용한 python game project
+pygame을 이용한 python game appleShot
+
 
 ![gameUI](https://user-images.githubusercontent.com/56014948/88001809-00326380-cb3c-11ea-99bb-c5ef3f7c6022.png)
 
